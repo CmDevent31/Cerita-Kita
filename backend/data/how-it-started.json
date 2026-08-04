@@ -1,0 +1,15 @@
+{
+  "intro": "Semua berawal dari sebuah chat buat joki Genshin tapi malah jadi panjang.",
+  "messages": [
+    { "sender": "me", "text": "Asslamualaikum, Save Malky", "time": "08.53" },
+    { "sender": "them", "text": "Okaayy", "time": "09.12" },
+    { "sender": "me", "text": "Wkwk sipp tolong dijokiin 😄", "time": "09.24" },
+    { "sender": "them", "text": "Bayar bang", "time": "09.43" },
+    { "sender": "me", "text": "Gak ada uangg, wkwkwk", "time": "09.49" },
+    { "sender": "them", "text": "Kelakuan aih", "time": "09.54" },
+    { "sender": "me", "text": "Wkwk yaa daripada gabut bosen ama akun utama, ini mayan akun baru", "time": "10.09" },
+    { "sender": "me", "text": "Ntar kasih 1000 wkwkwkwk", "time": "10.09" },
+    { "sender": "me", "text": "Tapi per 5 ar naik", "time": "10.13" }
+  ],
+  "closing": "Dari obrolan kita jadi sering chattan apalagi sampain ketemuan tiap beres pkl yaa mcd"
+}

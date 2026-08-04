@@ -1,0 +1,8 @@
+[
+  { "icon": "💬", "label": "Pesan Terkirim", "value": 5200, "suffix": "+" },
+  { "icon": "☕", "label": "Ngopi Bareng", "value": 47, "suffix": "x" },
+  { "icon": "📸", "label": "Foto Diambil", "value": 312, "suffix": "" },
+  { "icon": "😂", "label": "Ketawa Bareng", "value": 999, "suffix": "+" },
+  { "icon": "🎮", "label": "Jam Mabar", "value": 180, "suffix": "j" },
+  { "icon": "🛵", "label": "Boncengan PCX", "value": 63, "suffix": "x" }
+]
